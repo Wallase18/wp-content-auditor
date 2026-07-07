@@ -1,0 +1,5 @@
+node_modules/
+*.xml
+relatorio_duplicadas.html
+relatorio_duplicadas_api.html
+.DS_Store
